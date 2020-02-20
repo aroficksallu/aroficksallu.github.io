@@ -959,7 +959,7 @@ div#portfolioModal1,div#portfolioModal2,div#portfolioModal3,div#portfolioModal4,
 }
 .team-gd img {
 	width: 100%;
-	border-radius: 30px;
+	border-radius: 50px;
 	border-top: 30px solid rgba(241, 241, 237, 0.81);
 	border-bottom: 30px solid rgba(241, 241, 237, 0.81);
 	border-left: 30px solid rgba(241, 241, 237, 0.81);
