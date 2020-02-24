@@ -21,7 +21,7 @@ body h1,h2,h3,h4,h5,h6{
 }
 /*-- header --*/
 #home {
-    background: url(../images/bg-head1.jpg) no-repeat center top;
+    background: url(../images/foto1.jpg) no-repeat center top;
     background-size: cover;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -1185,7 +1185,7 @@ span.border.two:after {
 }
 /*-- footer --*/
 .footer {
-    background: url(../images/contact.jpeg) no-repeat center top;
+    background: url(../images/footer.jpg) no-repeat center top;
     background-size: cover;
     -webkit-background-size: cover;
     -moz-background-size: cover;
